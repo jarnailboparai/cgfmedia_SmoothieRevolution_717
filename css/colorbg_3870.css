@@ -8,11 +8,11 @@
 
 	background-size:cover;	
 
-	background: radial-gradient(center , circle cover , rgb(188, 68, 68) 1% , rgb(51, 138, 127) 80%);
-background: -o-radial-gradient(center , circle cover , rgb(188, 68, 68) 1% , rgb(51, 138, 127) 80%);
-background: -ms-radial-gradient(center , circle cover , rgb(188, 68, 68) 1% , rgb(51, 138, 127) 80%);
-background: -moz-radial-gradient(center , circle cover , rgb(188, 68, 68) 1% , rgb(51, 138, 127) 80%);
-background: -webkit-radial-gradient(center , circle cover , rgb(188, 68, 68) 1% , rgb(51, 138, 127) 80%);
+	background: linear-gradient(right , rgb(138, 40, 40) 1% , rgb(28, 137, 182) 80%);
+background: -o-linear-gradient(right , rgb(138, 40, 40) 1% , rgb(28, 137, 182) 80%);
+background: -ms-linear-gradient(right , rgb(138, 40, 40) 1% , rgb(28, 137, 182) 80%);
+background: -moz-linear-gradient(right , rgb(138, 40, 40) 1% , rgb(28, 137, 182) 80%);
+background: -webkit-linear-gradient(right , rgb(138, 40, 40) 1% , rgb(28, 137, 182) 80%);
 
 
 
