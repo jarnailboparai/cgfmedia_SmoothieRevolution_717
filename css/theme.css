@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(center center , ellipse cover , rgb(212, 41, 41) 4% , rgb(146, 251, 164) 65% , rgb(204, 68, 68) 98%);
-background: -o-radial-gradient(center center , ellipse cover , rgb(212, 41, 41) 4% , rgb(146, 251, 164) 65% , rgb(204, 68, 68) 98%);
-background: -ms-radial-gradient(center center , ellipse cover , rgb(212, 41, 41) 4% , rgb(146, 251, 164) 65% , rgb(204, 68, 68) 98%);
-background: -moz-radial-gradient(center center , ellipse cover , rgb(212, 41, 41) 4% , rgb(146, 251, 164) 65% , rgb(204, 68, 68) 98%);
-background: -webkit-radial-gradient(center center , ellipse cover , rgb(212, 41, 41) 4% , rgb(146, 251, 164) 65% , rgb(204, 68, 68) 98%);
+	background: linear-gradient(left , rgb(212, 41, 41) 4% , rgb(1, 2, 1) 49% , rgb(204, 68, 68) 98%);
+background: -o-linear-gradient(left , rgb(212, 41, 41) 4% , rgb(1, 2, 1) 49% , rgb(204, 68, 68) 98%);
+background: -ms-linear-gradient(left , rgb(212, 41, 41) 4% , rgb(1, 2, 1) 49% , rgb(204, 68, 68) 98%);
+background: -moz-linear-gradient(left , rgb(212, 41, 41) 4% , rgb(1, 2, 1) 49% , rgb(204, 68, 68) 98%);
+background: -webkit-linear-gradient(left , rgb(212, 41, 41) 4% , rgb(1, 2, 1) 49% , rgb(204, 68, 68) 98%);
 }
 
 
